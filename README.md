@@ -1,4 +1,6 @@
 # 3b.CREATION FOR CHAT USING TCP SOCKETS
+### NAME:G.ROHIT
+### REGISTER NUMBER:212222240083
 ## AIM
 To write a python program for creating Chat using TCP Sockets Links.
 ## ALGORITHM:
@@ -8,8 +10,6 @@ To write a python program for creating Chat using TCP Sockets Links.
  server
 4. Send and receive the message using the send function in socket.
 ## PROGRAM:
-DEVELOPED BY: Priyadharshini Raja
-REGISTER NUMBER: 212223230160
 
 ## CLIENT:
 ```
@@ -36,7 +36,13 @@ while True:
  c.send(msg.encode())
 ```
 ## OUPUT:
-![image](https://github.com/Priya-dharshini-Raja/3b_CHAT_USING_TCP_SOCKETS/assets/148514803/ae3331fa-335b-46ea-a7e6-205b8a2a9e77)
+### CLIENT:
+<img width="700" alt="image" src="https://github.com/rohitgunasekaran/3b_CHAT_USING_TCP_SOCKETS/assets/119404546/7808dd13-bc9b-47b4-9175-f08b5750d124">
+
+### SERVER:
+<img width="700" alt="image" src="https://github.com/rohitgunasekaran/3b_CHAT_USING_TCP_SOCKETS/assets/119404546/c406af97-1cdb-42aa-aa77-37aa0be2cc7d">
+
+
 
 ## RESULT
 Thus, the python program for creating Chat using TCP Sockets Links was successfully 
